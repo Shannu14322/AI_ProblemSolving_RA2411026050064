@@ -31,7 +31,22 @@ python EvacuationPlanner/evacuation.py
 
 ---
 
-## Output
+## Sample Output
+
+### Tic-Tac-Toe
+Example:
+X | O | X
+O | X | O
+X |   | O
+
+Result: AI wins / Draw
+
+### Evacuation Planner
+Steps:
+(3, 0, 'L')
+(1, 2, 'R')
+(2, 1, 'L')
+(0, 3, 'R')
 
 TicTacToe:
 User vs AI game in terminal
